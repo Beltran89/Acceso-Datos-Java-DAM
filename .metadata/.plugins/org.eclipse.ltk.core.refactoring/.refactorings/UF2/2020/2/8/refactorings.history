@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Principal.java&apos; to &apos;ActividadUF5-1/src/driver&apos;&#x0D;&#x0A;- Original project: &apos;UF2&apos;&#x0D;&#x0A;- Destination element: &apos;ActividadUF5-1/src/driver&apos;&#x0D;&#x0A;- Original element: &apos;Principal.java&apos;" description="Copy compilation unit" destination="=ActividadUF5-1/src&lt;driver" element1="/src&lt;{Principal.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1582471730220" units="1" version="1.0"/>
+</session>

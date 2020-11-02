@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+ <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+	<h1>Formulario</h1>
+	<!-- El action sera el servlet(controlador) al que vamos a ir -->
+	<form action="altaProducto" method="post">
+		Codigo:<input type="text" name="codigo"/>
+		<br/>
+		Descripcion:<input type="text" name="descripcion"/>
+		<br/>
+		Precio:<input type="number" name="precio"/>
+		<br/>
+		<br/>
+		Stock:<input type="number" name="stock"/>
+		<br/>
+		<br/>
+		Minimo:<input type="number" name="minimo"/>
+		<br/>
+		<input type="submit" value="alta"/>
+	</form>
+</body>
+</html>

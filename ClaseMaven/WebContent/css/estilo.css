@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+	h1 {
+		background‐color: blue;
+		font‐family: Verdana;
+		font-size: 16px;
+	}
+	
+	td, th, tr, table {
+		font‐family: Verdana;
+		border‐color: blue;
+		border‐style: solid;
+		border‐collapse:collapse;
+		/* Este último atributo elimina los espacios
+		entre las celdas de la tabla.
+		*/
+	}
+	
+	th {
+		width: 100px;
+	}
+	
+	th#descripcion {
+		width: 400px;
+	}
+	
+	.derecha {
+		text‐align: right;
+	}
+	a {
+		font‐family: Verdana;
+		font‐size: 20px;
+	}

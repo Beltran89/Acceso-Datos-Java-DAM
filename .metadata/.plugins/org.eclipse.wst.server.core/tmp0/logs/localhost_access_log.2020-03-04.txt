@@ -1,0 +1,4 @@
+127.0.0.1 - - [04/Mar/2020:14:33:30 +0100] "GET / HTTP/1.1" 404 1002
+0:0:0:0:0:0:0:1 - - [04/Mar/2020:14:34:36 +0100] "GET /ActividadUF5_MVC/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Mar/2020:14:34:36 +0100] "GET /ActividadUF5_MVC/imagenes/ferreteria.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Mar/2020:14:34:36 +0100] "GET /ActividadUF5_MVC/css/estilos.css HTTP/1.1" 200 170

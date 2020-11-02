@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 06 12:54:17 CET 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-016f-7ab4-a701-00000eb3ca28 
+on database directory C:\Users\vened\Pronoide\20_Material\Java\Core\WorkspaceJava\10_BasesDeDatos\bbdd with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/vened/Pronoide/20_Material/Java/Core/WorkspaceJava/10_BasesDeDatos/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=C:\Users\vened\Pronoide\20_Material\Java\Core\WorkspaceJava\10_BasesDeDatos
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

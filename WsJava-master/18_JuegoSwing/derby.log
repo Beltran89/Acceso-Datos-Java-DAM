@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 27 22:56:11 CET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0159-4248-9b89-00000696b198 
+on database directory C:\Users\Felix\Pronoide\20_Material\Java\Basico\WorkspaceJavaBasico\18_JuegoSwing\game with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Felix/Pronoide/20_Material/Java/Basico/WorkspaceJavaBasico/18_JuegoSwing/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Users\Felix\Pronoide\20_Material\Java\Basico\WorkspaceJavaBasico\18_JuegoSwing
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

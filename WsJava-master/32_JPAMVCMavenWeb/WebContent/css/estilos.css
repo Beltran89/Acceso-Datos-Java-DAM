@@ -1,0 +1,11 @@
+@charset "UTF-8";
+h1{
+	color: blue;
+}
+td, th, tr, table {
+font‐family: Verdana;
+border‐color: blue;
+border‐style: solid;
+border‐collapse:collapse;
+
+}

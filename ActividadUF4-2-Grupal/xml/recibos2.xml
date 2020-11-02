@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recibos.xsl"?>
+<recibos>
+	<recibo>
+		<numero>5440</numero>
+		<fecha>2017-09-05</fecha>
+		<detalle>
+			<codigo>CAJ2</codigo>
+			<descripcion>CAJA DE HERRAMIENTAS DE METAL</descripcion>
+			<unidades>2</unidades>
+			<precio>123</precio>
+		</detalle>
+		<detalle>
+			<codigo>MAR1</codigo>
+			<descripcion>MARTILLO PEQUEÑO</descripcion>
+			<unidades>1</unidades>
+			<precio>35</precio>
+		</detalle>
+		<detalle>
+			<codigo>MAR2</codigo>
+			<descripcion>MARTILLO GRANDE</descripcion>
+			<unidades>12</unidades>
+			<precio>70</precio>
+		</detalle>
+		<detalle>
+			<codigo>TOR7</codigo>
+			<descripcion>CAJA DE 100 TORNILLOS DEL 7</descripcion>
+			<unidades>2</unidades>
+			<precio>8</precio>
+		</detalle>
+		<detalle>
+			<codigo>TUE7</codigo>
+			<descripcion>CAJA DE 100 TUERCAS DEL 7</descripcion>
+			<unidades>2</unidades>
+			<precio>5</precio>
+		</detalle>
+	</recibo>
+	<recibo>
+		<numero>5444</numero>
+		<fecha>2017-10-13</fecha>
+		<detalle>
+			<codigo>MAR2</codigo>
+			<descripcion>MARTILLO GRANDE</descripcion>
+			<unidades>1</unidades>
+			<precio>120</precio>
+		</detalle>
+	</recibo>
+	<recibo>
+		<numero>5445</numero>
+		<fecha>2017-10-14</fecha>
+		<detalle>
+			<codigo>TOR7</codigo>
+			<descripcion>CAJA DE 100 TORNILLOS DEL 7</descripcion>
+			<unidades>5</unidades>
+			<precio>8</precio>
+		</detalle>
+		<detalle>
+			<codigo>TOR9</codigo>
+			<descripcion>CAJA DE 100 TORNILLOS DEL 9</descripcion>
+			<unidades>5</unidades>
+			<precio>8</precio>
+		</detalle>
+		<detalle>
+			<codigo>TUE7</codigo>
+			<descripcion>CAJA DE 100 TUERCAS DEL 7</descripcion>
+			<unidades>5</unidades>
+			<precio>5</precio>
+		</detalle>
+		<detalle>
+			<codigo>TUE9</codigo>
+			<descripcion>CAJA DE 100 TUERCAS DEL 9</descripcion>
+			<unidades>5</unidades>
+			<precio>5</precio>
+		</detalle>
+	</recibo>
+	<recibo>
+		<numero>5446</numero>
+		<fecha>2017-12-15</fecha>
+		<detalle>
+			<codigo>MAR1</codigo>
+			<descripcion>MARTILLO PEQUEÑO</descripcion>
+			<unidades>1</unidades>
+			<precio>130</precio>
+		</detalle>
+		<detalle>
+			<codigo>TOR7</codigo>
+			<descripcion>CAJA DE 100 TORNILLOS DEL 7</descripcion>
+			<unidades>2</unidades>
+			<precio>9</precio>
+		</detalle>
+	</recibo>
+	<recibo>
+		<numero>5447</numero>
+		<fecha>2018-05-28</fecha>
+		<detalle>
+			<codigo>MAR1</codigo>
+			<descripcion>MARTILLO PEQUEÑO</descripcion>
+			<unidades>1</unidades>
+			<precio>84</precio>
+		</detalle>
+		<detalle>
+			<codigo>TOR7</codigo>
+			<descripcion>CAJA DE 100 TORNILLOS DEL 7</descripcion>
+			<unidades>3</unidades>
+			<precio>945</precio>
+		</detalle>
+	</recibo>
+	<recibo>
+		<numero>5448</numero>
+		<fecha>2018-05-28</fecha>
+		<detalle>
+			<codigo>MAR1</codigo>
+			<descripcion>MARTILLO PEQUEÑO</descripcion>
+			<unidades>1</unidades>
+			<precio>84</precio>
+		</detalle>
+		<detalle>
+			<codigo>TOR7</codigo>
+			<descripcion>CAJA DE 100 TORNILLOS DEL 7</descripcion>
+			<unidades>2</unidades>
+			<precio>945</precio>
+		</detalle>
+	</recibo>
+</recibos>

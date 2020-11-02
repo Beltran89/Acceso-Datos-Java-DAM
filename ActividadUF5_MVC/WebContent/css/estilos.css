@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+h1{
+	background-color: aqua;
+}
+table {
+	width: 100%;
+}
+
+table, th, td {
+	border-collapse: collapse;
+	border: 3px solid black;
+	border-color:blue
+}
